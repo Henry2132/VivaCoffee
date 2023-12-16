@@ -1,3 +1,4 @@
+"use client"
 import ManagerPage from "./components/ManagerPage";
 
 

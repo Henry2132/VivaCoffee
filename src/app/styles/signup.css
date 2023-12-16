@@ -1,0 +1,40 @@
+h1{
+    color: #C08267;
+    font-family:'Aboreto', cursive;
+}
+.signup-container{
+    height: 500px;
+    display: flex;
+    justify-content: center;
+}
+.pass-word,.user-name ,.number{
+    border: 1px solid grey;
+    padding: 4px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    width: 200px;
+    height: 25px;
+}
+.btn-signup{
+    margin-top: 20px;
+    width: 150px;
+    height: 30px;
+    background-color: #C08267;
+    border: 5px;
+    border-radius: 5px;
+    font-family:'Aboreto', cursive;
+}
+
+.btn-login:hover{
+    font-size: 16px;
+}
+.signup-form{
+    text-align: center;
+    border: 1px solid black;
+    width: 300px;
+    height: 300px;
+    border-radius: 5px;
+    margin-top: 100px;
+    margin-bottom: 90px;
+    background-color: white;
+}

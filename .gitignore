@@ -34,3 +34,15 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+package-lock.json
+public/latte.png
+public/cf.png
+public/coffee.png
+public/coldbrew.png
+public/download.jpg
+public/neko.jpg
+public/machiato.jpg
+public/mocha.png
+public/salt.jpg
+public/sat.jpg
+public/summer.jpg

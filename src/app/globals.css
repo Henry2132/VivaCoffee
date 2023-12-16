@@ -5,4 +5,9 @@
 
 
 @import url(styles/mainpage.css);
-@import url(styles/form.css);
+@import url(styles/header.css);
+@import url(styles/login.css);
+@import url(styles/order.css);
+@import url(styles/footer.css);
+@import url(styles/signup.css);
+@import url(styles/productdetail.css);

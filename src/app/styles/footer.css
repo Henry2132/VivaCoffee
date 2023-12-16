@@ -1,0 +1,27 @@
+#footer{
+    background:#C08267 ;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    display: flex;
+    justify-content: space-around;
+
+}
+.box{
+    margin-right: 100px;
+}
+.box ,p ,h2{
+    color: white;
+    font-family: 'Aboreto', cursive;
+}
+.quick-menu{
+    padding: 0px;
+}
+.box a{
+    text-decoration: none;
+    color: white;
+    font-family: 'Aboreto', cursive;
+}
+.box .footer-i{
+    height: 25px;
+    width: 25px;
+}
