@@ -91,6 +91,12 @@ export default function ManagerPage() {
 
                   
               </ul>
+              <div className="list-page">
+                    <div className="number"><a href="">1</a></div>
+                    <div className="number"><a href="">2</a></div>
+                    <div className="number"><a href="">3</a></div>
+                    <div className="number"><a href="">4</a></div>
+                </div>
             </div>
           {isImageVisible && (
           <div className="container">

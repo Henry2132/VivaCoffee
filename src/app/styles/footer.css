@@ -1,3 +1,4 @@
+/*footer*/
 #footer{
     background:#C08267 ;
     padding-top: 50px;
@@ -6,6 +7,7 @@
     justify-content: space-around;
 
 }
+/*box*/
 .box{
     margin-right: 100px;
 }
@@ -21,6 +23,7 @@
     color: white;
     font-family: 'Aboreto', cursive;
 }
+/*icon*/
 .box .footer-i{
     height: 25px;
     width: 25px;

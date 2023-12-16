@@ -17,6 +17,7 @@
 .viva-label{
     font-size: 40px;
 }
+/*input search*/
 #search{
     position: relative;
     display: inline-block;
@@ -39,6 +40,7 @@
     color: white;
     
 }
+/*menu label*/
 #menu{
     list-style: none;
     display: flex;
@@ -51,6 +53,7 @@
     color: white;
     text-decoration: none;
 }
+/*dropdown menu*/
 #menu .list:hover .dropdown{
     display: block;
 }
@@ -62,14 +65,7 @@
     padding: 10px;
     z-index: 1;
 }
-/* #menu .dropdown-ab {
-    display: none;
-    position: absolute;
-    top: 100%;
-    border: 1px solid white;
-    padding: 10px;
-    z-index: 1;
-}*/
+
 #menu .list:hover .dropdown-ab{
     display: block;
 } 
@@ -78,7 +74,7 @@
     padding: 8px;
     text-decoration: none;
 }
-
+/*icon*/
 .action{
     margin-left: 50px;
     display: flex;
