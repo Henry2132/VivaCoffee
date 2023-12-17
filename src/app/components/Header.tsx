@@ -46,7 +46,7 @@ export default function Header() {
                             </div>
                                 
                             <div className="action-icon">
-                                <a ><FontAwesomeIcon icon={faShoppingCart} className="fa"/></a>
+                                <Link href="/components/Shopping-cart" ><FontAwesomeIcon icon={faShoppingCart} className="fa"/></Link>
                             </div>
                         </div>      
                         {isItemVisible &&(

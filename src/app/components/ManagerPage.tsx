@@ -125,11 +125,6 @@ export default function ManagerPage() {
                     </div>
         
                     <div className="form-group">
-                        <label htmlFor="productQuantity">Số Lượng:</label>
-                        <input type="text" id="productQuantity" name="productQuantity" readOnly value="50"/>
-                    </div>
-        
-                    <div className="form-group">
                         <button type="button" onClick={closeFormItem}>Thoát</button>
                     </div>
                 </form>
