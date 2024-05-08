@@ -64,6 +64,7 @@ export default function ManagerPage() {
                   <div className="item">
                     <Image src={"/machiato.jpg"} width={200} height={150} alt={""}className="i"onClick={showFormItem}/>
                     <h4>Caramel Macchiato</h4>
+                    <h4>"Nhấn vào hình để xem chi tiết"</h4>
                         <div className="pri">$8.60</div><br/>
                         <button className="btn-item">Đặt hàng</button>
                   </div>
